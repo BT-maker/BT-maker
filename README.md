@@ -52,10 +52,14 @@ Modern web teknolojileri ile kullanıcı dostu uygulamalar geliştirmeye odaklan
 </p>
 
 
-## 📈 Aktivite Grafiği
+## 📈 GitHub Aktivitesi
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BT-maker&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
+  <img src="https://ghchart.rshah.org/2196F3/BT-maker" alt="GitHub Contribution Chart" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BT-maker&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
 ## 🏆 GitHub Trophies
