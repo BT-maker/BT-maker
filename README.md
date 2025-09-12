@@ -51,42 +51,6 @@ Modern web teknolojileri ile kullanıcı dostu uygulamalar geliştirmeye odaklan
   <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/>
 </p>
 
-## 📊 GitHub İstatistikleri
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BT-maker&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BT-maker&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BT-maker&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
-## 🎯 Öne Çıkan Projeler
-
-### 🛒 [E-Commerce Platform](https://github.com/BT-maker/E-commerce-spring-react)
-Modern e-ticaret platformu. Spring Boot backend ve React frontend ile geliştirilmiş tam özellikli e-ticaret uygulaması.
-
-**Teknolojiler:** `React` `Spring Boot` `PostgreSQL` `Elasticsearch` `JWT` `Tailwind CSS`
-
-**Özellikler:**
-- JWT tabanlı kimlik doğrulama ve rol tabanlı erişim
-- Elasticsearch ile tam metin arama
-- Sepet yönetimi ve sipariş takibi
-- Satıcı ve admin paneli
-
-### 🥬 [Organic Food Store](https://github.com/BT-maker/advanced-css)
-Modern ve responsive organik gıda e-ticaret web sitesi. SASS ile geliştirilmiş, BEM metodolojisi kullanılarak yapılandırılmış.
-
-**Teknolojiler:** `HTML5` `SASS/SCSS` `Bootstrap` `BEM Metodolojisi`
-
-### 🌤️ [Weather App](https://github.com/BT-maker/-weather-app-web)
-OpenWeather API kullanarak gerçek zamanlı hava durumu bilgilerini gösteren tek sayfalık uygulama.
-
-**Teknolojiler:** `HTML5` `CSS3` `JavaScript` `Node.js` `Express.js` `OpenWeather API`
 
 ## 📈 Aktivite Grafiği
 
