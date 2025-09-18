@@ -47,13 +47,6 @@ Modern web teknolojileri ile kullanıcı dostu uygulamalar geliştirmeye odaklan
 </p>
 
 
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BT-maker&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</div>
-
 ## 📫 İletişim
 
 <div align="center">
