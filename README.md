@@ -1,21 +1,23 @@
-# 👋 Merhaba, Ben Bahattin Tok!
+# 👋 Hello, I'm Bahattin Tok!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Web+Developer;Frontend+%26+Backend;Modern+Web+Teknolojileri;S%C3%BCrekli+%C3%96%C4%9Frenen+Geli%C5%9Ftirici" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Web+Developer;Frontend+%26+Backend;Modern+Web+Technologies;Always+Learning+Developer" alt="Typing SVG" />
 </div>
 
-## 🚀 Hakkımda
+## 🚀 About Me
 
-Modern web teknolojileri ile kullanıcı dostu uygulamalar geliştirmeye odaklanıyorum. Frontend ve backend teknolojilerinde sürekli öğrenmeye ve gelişmeye devam ediyorum. Her projede en iyi kullanıcı deneyimini sağlamak için modern tasarım prensiplerini ve en güncel teknolojileri kullanıyorum.
+I focus on building user-friendly applications with modern web technologies.  
+I’m continuously learning and improving my skills in both frontend and backend technologies.  
+In every project, I aim to provide the best user experience by using modern design principles and up-to-date technologies.
 
-- 🔭 Şu anda **E-Commerce Platform** projesi üzerinde çalışıyorum
-- 🌱 **Spring Boot** ve **React** teknolojilerini derinlemesine öğreniyorum
-- 👯 **Açık kaynak projelerde** işbirliği yapmaya açığım
-- 💬 **Web geliştirme** konularında sorularınızı sorabilirsiniz
-- 📫 Bana ulaşın: **bahattok5@gmail.com**
-- ⚡ Eğlenceli gerçek: **Kod yazmayı ve yeni teknolojileri öğrenmeyi seviyorum!**
+- 🔭 Currently working on **E-Commerce Platform** project  
+- 🌱 Deeply learning **Spring Boot** and **React** technologies  
+- 👯 Open to collaborating on **open-source projects**  
+- 💬 Feel free to ask me anything about **web development**  
+- 📫 Reach me at: **bahattok5@gmail.com**  
+- ⚡ Fun fact: **I love coding and learning new technologies!**
 
-## 🛠️ Teknolojiler & Araçlar
+## 🛠️ Technologies & Tools
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -38,7 +40,7 @@ Modern web teknolojileri ile kullanıcı dostu uygulamalar geliştirmeye odaklan
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
 </p>
 
-### Araçlar & Diğer
+### Tools & Others
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
@@ -46,25 +48,24 @@ Modern web teknolojileri ile kullanıcı dostu uygulamalar geliştirmeye odaklan
   <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/>
 </p>
 
-
-## 📫 İletişim
+## 📫 Contact
 
 <div align="center">
   
-[![Email](https://img.shields.io/badge/Email-bahattok5%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bahattok5@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-BT--maker-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BT-maker)
-[![Instagram](https://img.shields.io/badge/Instagram-bahattin.tok.756-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bahattin.tok.756)
+[![Email](https://img.shields.io/badge/Email-bahattok5%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bahattok5@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-BT--maker-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BT-maker)  
+[![Instagram](https://img.shields.io/badge/Instagram-bahattin.tok.756-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bahattin.tok.756)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-bt--maker.github.io-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bt-maker.github.io/Portfolio/)
 
 </div>
 
-## 💼 İş Deneyimi & Eğitim
+## 💼 Work Experience & Education
 
-- 🎓 **Web Geliştirme** - Sürekli öğrenme ve gelişim
-- 💻 **1+ Yıl** - Web geliştirme deneyimi
-- 🚀 **10+ Proje** - Tamamlanmış projeler
+- 🎓 **Web Development** – Continuous learning and improvement  
+- 💻 **1+ Year** – Web development experience  
+- 🚀 **10+ Projects** – Successfully completed projects  
 
-## 🎨 Kod Stili & Prensipler
+## 🎨 Code Style & Principles
 
 ```javascript
 const developer = {
@@ -73,16 +74,5 @@ const developer = {
              "Java", "Spring Boot", "MySQL", "PostgreSQL", "MongoDB"],
     passion: "Creating amazing web experiences",
     currentFocus: "Full-stack development with modern technologies",
-    motto: "Sürekli öğren, sürekli geliştir! 🚀"
+    motto: "Keep learning, keep improving! 🚀"
 };
-```
-
-
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=BT-maker&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  
-  **"Kod yazmak bir sanat, problem çözmek ise tutkudur! 💻✨"**
-  
-  ⭐ Bu profileri beğendiyseniz yıldızlamayı unutmayın!
-</div>
