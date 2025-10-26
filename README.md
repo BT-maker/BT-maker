@@ -63,7 +63,7 @@ In every project, I aim to provide the best user experience by using modern desi
 
 - 🎓 **Web Development** – Continuous learning and improvement  
 - 💻 **1+ Year** – Web development experience  
-- 🚀 **10+ Projects** – Successfully completed projects  
+- 🚀 **20+ Projects** – Successfully completed projects  
 
 ## 🎨 Code Style & Principles
 
