@@ -44,8 +44,8 @@ In every project, I aim to provide the best user experience by using modern desi
 ## 💼 Work Experience & Education
 
 - 🎓 **Web Development** – Continuous learning and improvement  
-- 💻 **1+ Year** – Web development experience  
-- 🚀 **20+ Projects** – Successfully completed projects  
+- 💻 **2+ Year** – Web development experience  
+- 🚀 **30+ Projects** – Successfully completed projects  
 
 ## 🎨 Code Style & Principles
 
